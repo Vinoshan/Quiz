@@ -14,7 +14,7 @@ Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledg
 
 ## About
 
-Hitting the generate button will generate random passwords based on their selected criteria me (Numbers/Characters/Special Characters).
+Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming.
 
 ## Features
 
