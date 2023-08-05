@@ -1,4 +1,4 @@
-# Challenge-4-Quiz
+# Quiz
 
 Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming. It provides a user-friendly interface and a set of challenging questions specifically related to JavaScript concepts and syntax, keeping you engaged and helping you enhance your JavaScript skills.
 
