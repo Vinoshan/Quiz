@@ -1,6 +1,6 @@
 # Quiz
 
-Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming. It provides a user-friendly interface and a set of challenging questions specifically related to JavaScript concepts and syntax, keeping you engaged and helping you enhance your JavaScript skills.
+Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming. It provides a user-friendly interface and a set of challenging questions specifically related to JavaScript concepts and syntax, keeping you engaged and helping you enhance your JavaScript skills.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledg
 
 ## About
 
-Challenge-4-Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming.
+Quiz is a JavaScript quiz application designed to test your knowledge and improve your skills in JavaScript programming.
 
 ## Features
 
@@ -33,7 +33,7 @@ N/A
 ![Screenshot of Question](./assets/imgs/screenshot2.jpeg?raw=true "Screenshot of Question")
 ![Screenshot of Submit Page](./assets/imgs/screenshot3.jpeg?raw=true "Screenshot of Submit Page")
 ![Screenshot of Highscore Page](./assets/imgs/screenshot4.jpeg?raw=true "Screenshot of Highscore Page")
-[Link to Application](https://vinoshan.github.io/Challenge-4-Quiz/)
+[Link to Application](https://vinoshan.github.io/Quiz/)
 
 ## Contributing
 
